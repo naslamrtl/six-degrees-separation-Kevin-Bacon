@@ -6,7 +6,7 @@ the Wikipedia page “Six Degrees of Kevin Bacon”).
 First you need to download the files actors.list.gz and actresses.list.gz from the following link
 ftp://ftp.fu-berlin.de/pub/msc/movies/database/ 
 
-The algorithm that I followed (for rdd manuplation )is as below: 
+The algorithm that I followed (for rdd manipulation )is as below: 
 
 Create an RDD of type <actor, List<movies>> by using the newAPIHadoopFile function.
 
