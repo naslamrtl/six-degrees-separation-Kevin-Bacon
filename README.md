@@ -29,4 +29,4 @@ Reduce this list by taking the minimum function of the distance (<actor, minDist
 Iterate 6 times and identify the list of actors (both male and female) at a distance of 6 from
 Kevin Bacon. For example, after the first iteration, Bacon will have a distance of 0 and every
 actor who worked with him would be at distance 1, while the rest of the actors would be at
-distance of infinite. This connectivity would spread in the next iterations.
+distance of infinite. This connectivity would spread in the next iterations.  
