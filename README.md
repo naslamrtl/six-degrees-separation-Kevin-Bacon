@@ -4,7 +4,7 @@ The goal of this programe is to perform specific data analytics on Kevin Bacon t
 (both male and female) linked to him by the six degrees of separation (more info can be found on
 the Wikipedia page “Six Degrees of Kevin Bacon”).
 
-First you need to download the files actors.list.gz and actresses.list.gz from the following link
+To test the project locally, first download actors.list.gz and actresses.list.gz from the following link
 ftp://ftp.fu-berlin.de/pub/msc/movies/database/ 
 
 For hight level understanding, I took following approach: 
